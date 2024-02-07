@@ -18,3 +18,5 @@ Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
 This is a line from RStudio - Mohamed Bashier
+
+this was smooth once I figured out the terminal related stuff. THe process I went through was clone the rep and then add then commit. 
