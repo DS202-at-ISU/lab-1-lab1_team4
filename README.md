@@ -17,6 +17,9 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+This is a line from RStudio. - Brennan Sauser
+
 This is a line from RStudio - Mohamed Bashier
 
 this was smooth once I figured out the terminal related stuff. THe process I went through was clone the rep and then add then commit. 
+honestly this took a little longer than expected, come to realize I was missing a singular button. I'm using InteliJ so there was a bit of searching for help.
