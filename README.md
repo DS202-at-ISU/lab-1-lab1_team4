@@ -25,4 +25,4 @@ This is a line from RStudio - Ryan Nagao
 
 this was smooth once I figured out the terminal related stuff. THe process I went through was clone the rep and then add then commit. 
 honestly this took a little longer than expected, come to realize I was missing a singular button. I'm using InteliJ so there was a bit of searching for help.
-The process was pretty straight-forward. The only issue I had was a credential check, which was easily resolved.
+The process was pretty straight-forward. The only issue I had was a credential check, which was easily resolved by logging in.
